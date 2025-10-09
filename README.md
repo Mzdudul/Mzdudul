@@ -19,4 +19,4 @@
 
 <a href="https://www.linkedin.com/in/eduardo-gon%C3%A7alves-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,jwthtml,css,tailwind,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,jwt,react,html,css,tailwind,git,github)](https://skillicons.dev)
