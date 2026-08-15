@@ -29,6 +29,6 @@
 
 <h3>📫 Connect with me</h3>
 
-<a href="[https://www.linkedin.com/in/eduardo-gon%C3%A7alves-desenvolvedor](https://www.linkedin.com/in/mzdudul/)">
+<a href="https://www.linkedin.com/in/mzdudul/">
   <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Gonçalves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
