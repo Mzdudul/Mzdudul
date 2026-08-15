@@ -1,4 +1,4 @@
-```html
+
 <code>System.out.println("Welcome to my GitHub! 👋");</code>
 
 <h1 align="left">Eduardo Gonçalves</h1>
@@ -109,4 +109,4 @@ Tenho interesse em oportunidades onde eu possa trabalhar com engenharia de softw
 <a href="https://www.linkedin.com/in/eduardo-gon%C3%A7alves-desenvolvedor" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-```
+
