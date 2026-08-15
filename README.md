@@ -16,7 +16,6 @@
 
 <p>☕ Evoluindo meus conhecimentos em <strong>Java, Spring Boot, arquitetura de software e sistemas escaláveis</strong>.</p>
 
-<p>🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas — Uniasselvi</strong>.</p>
 
 <hr>
 
